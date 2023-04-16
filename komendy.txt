@@ -1,1 +1,3 @@
 html-validate *.html
+
+//add txt na potrzeby nowego commita
